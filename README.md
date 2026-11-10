@@ -68,6 +68,9 @@ Que se debe hacer:
 - Vigilar el nivel de batería. Si la capacidad baja demasiado, se activa una alarma de nivel alto con el mensaje "Voltaje de batería bajo", y hay que conectar el equipo a la red de CA. Con baterías nuevas y cargadas, el equipo puede seguir funcionando al menos 5 min después de la primera alarma de alimentación baja. 
 
 4. ¿Con qué frecuencia debería reemplazarse el recipiente absorbente de CO2?
-5. ¿Cuál es el procedimiento para verificar si hay fuga en el cilindro de alta presión?
-6. ¿Influye el contar o no con el sensor de O2 al hacer la prueba sobre el sistema de control de flujo? ¿De qué forma?
-7. ¿Para qué se requiere el sistema de presión negativa? 
+
+En el manual no aparece un intervalo fijo, como “cada X horas”. El criterio es el cambio de color: el cambio de color indica absorción de CO2, pero solo es un indicador aproximado. Lo más fiable es usar la supervisión de CO2. La tabla de mantenimiento lo asocia al cambio de color.
+Hay que cambiarlo cuando el indicador vire de color o cuando suba el CO2 inspirado. Además, si el absorbente se seca por completo puede liberar monóxido de carbono, así que hay que cerrar los gases al terminar
+6. ¿Cuál es el procedimiento para verificar si hay fuga en el cilindro de alta presión?
+7. ¿Influye el contar o no con el sensor de O2 al hacer la prueba sobre el sistema de control de flujo? ¿De qué forma?
+8. ¿Para qué se requiere el sistema de presión negativa? 
