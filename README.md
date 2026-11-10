@@ -14,11 +14,11 @@
 
 # **Metodología**
 
-## *Parte A*
+# *Parte A*
 
-## *Parte B*
+# *Parte B*
 
-1. Identifique y ubique las siguientes partes de la máquina de anestesia WATO EX-20, explicando su función.
+## *1. Identifique y ubique las siguientes partes de la máquina de anestesia WATO EX-20, explicando su función.*
 
 - Vaporizador:
 
@@ -36,7 +36,7 @@
 
 1. **Más cerrada (sentido horario):** el resorte aprieta más y se necesita más presión para abrir la válvula. El gas se queda en el circuito, la bolsa se infla más y se pueden dar presiones más altas al paciente. En la WATO EX-20 el máximo es 75 cmH₂O.
   
-3. **Más abierta (antihorario):** se abre con muy poca presión, así que el gas sale fácilmente y en el circuito queda poca presión.
+2. **Más abierta (antihorario):** se abre con muy poca presión, así que el gas sale fácilmente y en el circuito queda poca presión.
 
 [imagen]
 
@@ -56,7 +56,7 @@
 
 [imagen]
 
-2. Si el ventilador muestra el mensaje “batería en uso” y el paciente se encuentra conectado a la máquina ¿Qué acción debería ejecutarse?
+## *2. Si el ventilador muestra el mensaje “batería en uso” y el paciente se encuentra conectado a la máquina ¿Qué acción debería ejecutarse?*
 
 Ese mensaje significa que la máquina perdió la alimentación de CA. En la prueba de fallo eléctrico, al desenchufar la CA, el indicador de CA debe apagarse y aparecer el mensaje de batería en uso; al volver a enchufarla, el indicador se enciende y el mensaje desaparece.
 Que se debe hacer:
@@ -67,10 +67,31 @@ Que se debe hacer:
 
 - Vigilar el nivel de batería. Si la capacidad baja demasiado, se activa una alarma de nivel alto con el mensaje "Voltaje de batería bajo", y hay que conectar el equipo a la red de CA. Con baterías nuevas y cargadas, el equipo puede seguir funcionando al menos 5 min después de la primera alarma de alimentación baja. 
 
-4. ¿Con qué frecuencia debería reemplazarse el recipiente absorbente de CO2?
+## *3. ¿Con qué frecuencia debería reemplazarse el recipiente absorbente de CO2?*
 
 En el manual no aparece un intervalo fijo, como “cada X horas”. El criterio es el cambio de color: el cambio de color indica absorción de CO2, pero solo es un indicador aproximado. Lo más fiable es usar la supervisión de CO2. La tabla de mantenimiento lo asocia al cambio de color.
-Hay que cambiarlo cuando el indicador vire de color o cuando suba el CO2 inspirado. Además, si el absorbente se seca por completo puede liberar monóxido de carbono, así que hay que cerrar los gases al terminar
-6. ¿Cuál es el procedimiento para verificar si hay fuga en el cilindro de alta presión?
-7. ¿Influye el contar o no con el sensor de O2 al hacer la prueba sobre el sistema de control de flujo? ¿De qué forma?
-8. ¿Para qué se requiere el sistema de presión negativa? 
+Hay que cambiarlo cuando el indicador vire de color o cuando suba el CO2 inspirado. Además, si el absorbente se seca por completo puede liberar monóxido de carbono, así que hay que cerrar los gases al terminar y al cambiarlo, también se debe sustituir la esponja del recipiente.
+
+## *4. ¿Cuál es el procedimiento para verificar si hay fuga en el cilindro de alta presión?*
+
+1. Poner el interruptor del sistema en la posición indicada y desconectar el suministro de O2 de la red de tuberías.
+2. Girar todos los controles de flujo completamente en sentido horario (flujo mínimo).
+3. Abrir lentamente la válvula del cilindro y anotar la presión.
+4. errar la válvula, esperar un minuto y volver a anotar la presión.
+5. Interpretar el resultado:
+
+- **O2:** una caída de más de 5000 kPa (725 psi) indica fuga.
+
+- **N2O:** una caída de más de 700 kPa (100 psi) en un minuto indica fuga. El cilindro de aire sigue el mismo procedimiento que el de O2.
+
+6. Si hay fuga, se instala una junta nueva y se repite la prueba. Si la fuga continúa, no se debe usar el suministro por cilindros.
+  
+## *5. ¿Influye el contar o no con el sensor de O2 al hacer la prueba sobre el sistema de control de flujo? ¿De qué forma?*
+
+Sí. El manual tiene dos procedimientos distintos: “sin supervisión de concentración de O2” (6.6.1) y “con supervisión” (6.6.2).
+
+- **Sin sensor de O2:** la prueba es indirecta. Se verifica que el sistema de enlace N2O/O2 mantenga la proporción mínima de O2 leyendo los flujómetros. Se comprueba la relación N2O/O2 aumentando y disminuyendo el flujo, con valores de O2 mínimos según el flujo de N2O. El propio manual advierte que un O2 suficiente en el gas fresco no descarta mezclas hipóxicas en el circuito.
+
+- **Con sensor de O2:** se mide directamente la concentración que entrega la mezcla. La concentración de O2 medida debe ser de al menos el 25 % en todo el rango.
+
+## *6. ¿Para qué se requiere el sistema de presión negativa?*
