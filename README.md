@@ -26,7 +26,10 @@
 
 **Función:** administra el agente anestésico inspirado. Se ajusta pulsando y girando el control de concentración. El equipo admite halotano, enflurano, isoflurano, sevoflurano y desflurano, pero solo puede activarse un vaporizador a la vez.
 
-[imagen]
+<img width="800" height="700" alt="image" src="https://github.com/user-attachments/assets/bbe2675b-639e-4327-962e-8a1b5af4a3d7" />
+
+<img width="800" height="700" alt="image" src="https://github.com/user-attachments/assets/4c2c5f80-2382-4c08-8ec4-698545f8b06a" />
+
 
 - Válvula APL
 
@@ -38,7 +41,9 @@
   
 2. **Más abierta (antihorario):** se abre con muy poca presión, así que el gas sale fácilmente y en el circuito queda poca presión.
 
-[imagen]
+<img width="600" height="800" alt="image" src="https://github.com/user-attachments/assets/cd3d8408-c1c4-4ce9-906d-af11725ce135" />
+
+<img width="600" height="800" alt="image" src="https://github.com/user-attachments/assets/90403a0e-5096-4c60-b9d8-6de115897773" />
 
 - Recipiente absorbente de CO2
 
@@ -46,7 +51,9 @@
 
 **Función:** absorbe el CO2 exhalado por el paciente, lo que permite reutilizar el gas exhalado. Algunas configuraciones tienen válvula de bypass de CO2, que permite cambiar el recipiente durante la cirugía, y un mensaje en pantalla que confirma que quedó bien montado.
 
-[imagen]
+<img width="600" height="800" alt="image" src="https://github.com/user-attachments/assets/6c8836fe-cfe8-48e2-a4e1-567255431a57" />
+
+<img width="600" height="800" alt="image" src="https://github.com/user-attachments/assets/fe8008fa-de00-42ea-8fa6-84b6f9c91a78" />
 
 - Fuelle
 
@@ -54,7 +61,9 @@
 
 **Función:** durante la ventilación mecánica, el gas que impulsa el ventilador comprime el fuelle y así entrega el volumen corriente al paciente sin mezclarse con el gas del paciente. El fuelle ascendente puede proporcionar información visual inmediata sobre la idoneidad del caudal de gas. El volumen corriente marcado en su carcasa es solo un indicador aproximado y puede no coincidir con el volumen medido, lo cual es normal.
 
-[imagen]
+<img width="600" height="800" alt="image" src="https://github.com/user-attachments/assets/085caa73-0293-437f-b20e-2d9d111c1ad9" />
+
+<img width="600" height="800" alt="image" src="https://github.com/user-attachments/assets/89c2a2ca-dada-409f-b59e-eec57d9233b9" />
 
 ## *2. Si el ventilador muestra el mensaje “batería en uso” y el paciente se encuentra conectado a la máquina ¿Qué acción debería ejecutarse?*
 
