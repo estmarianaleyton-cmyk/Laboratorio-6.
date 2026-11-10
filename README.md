@@ -6,7 +6,7 @@
 
 **Estudiantes:** Dubrasca Martínez, Mariana Leyton, Joshara Valentina Palacios
 
-**Fecha:** 20 de agosto del 2026
+**Fecha:** 10 de noviembre del 2026
 
 **Título de la práctica:** Reconocimiento de partes y funcionamiento de una maquina de anestesia
 
@@ -95,3 +95,5 @@ Sí. El manual tiene dos procedimientos distintos: “sin supervisión de concen
 - **Con sensor de O2:** se mide directamente la concentración que entrega la mezcla. La concentración de O2 medida debe ser de al menos el 25 % en todo el rango.
 
 ## *6. ¿Para qué se requiere el sistema de presión negativa?*
+
+El sistema de presión negativa permite generar succión mediante el principio de Venturi, utilizando aire u oxígeno como gas impulsor. Su finalidad es aspirar secreciones y fluidos corporales acumulados en la garganta del paciente, contribuyendo a mantener la vía aérea despejada durante los procedimientos de anestesia.
