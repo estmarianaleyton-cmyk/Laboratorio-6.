@@ -1,4 +1,4 @@
-# Laboratorio-6.
+# Laboratorio-.6
 
 **Universidad Militar Nueva Granada**
 
