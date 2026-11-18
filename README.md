@@ -12,6 +12,12 @@
 
 # **Introducción**
 
+Las máquinas de anestesia son equipos biomédicos fundamentales en los procedimientos quirúrgicos, ya que permiten administrar mezclas controladas de gases anestésicos, suministrar oxígeno y proporcionar soporte ventilatorio al paciente. Su funcionamiento depende de la integración de diferentes subsistemas neumáticos, mecánicos y electrónicos, los cuales deben operar de manera coordinada para garantizar condiciones seguras durante la intervención.
+
+En esta práctica de laboratorio se realizó el reconocimiento de los principales componentes de la máquina de anestesia WATO EX-20, identificando la ubicación y función del vaporizador, la válvula APL, el recipiente absorbente de CO₂ y el fuelle. Asimismo, se estudiaron aspectos relacionados con el suministro de gases medicinales, los sistemas de control de flujo, la alimentación eléctrica y los mecanismos de seguridad incorporados en el equipo.
+
+Adicionalmente, se analizaron procedimientos de verificación y mantenimiento, como la detección de fugas en cilindros de alta presión, el reemplazo del absorbente de CO₂ y la respuesta ante la activación de alarmas. Esta actividad permitió relacionar los conocimientos teóricos de instrumentación biomédica con el funcionamiento de un equipo utilizado en entornos clínicos, destacando la importancia de su correcta operación, supervisión y mantenimiento preventivo.
+
 # **Metodología**
 
 # *Parte A*
@@ -106,3 +112,40 @@ Sí. El manual tiene dos procedimientos distintos: “sin supervisión de concen
 ## *6. ¿Para qué se requiere el sistema de presión negativa?*
 
 El sistema de presión negativa permite generar succión mediante el principio de Venturi, utilizando aire u oxígeno como gas impulsor. Su finalidad es aspirar secreciones y fluidos corporales acumulados en la garganta del paciente, contribuyendo a mantener la vía aérea despejada durante los procedimientos de anestesia.
+
+# **Discusión**
+
+## *1. ¿Qué tipos de anestésicos son los más usados en cirugía?*
+
+Los anestésicos utilizados durante los procedimientos quirúrgicos se clasifican principalmente en agentes inhalatorios e intravenosos, cuya selección depende del tipo de intervención, las condiciones clínicas del paciente y la técnica anestésica empleada.
+
+Entre los anestésicos inhalatorios más utilizados se encuentran el sevoflurano, el desflurano y el isoflurano. Estos agentes se administran mediante vaporizadores que permiten regular su concentración en la mezcla de gases suministrada al paciente. El sevoflurano se caracteriza por permitir una inducción y recuperación relativamente rápidas, mientras que el desflurano facilita ajustes rápidos de la profundidad anestésica. Por su parte, el isoflurano continúa siendo una alternativa para el mantenimiento de la anestesia general.
+
+En cuanto a los anestésicos intravenosos, el propofol es uno de los más empleados para la inducción y el mantenimiento de la anestesia general. También se utilizan medicamentos como la ketamina y el etomidato, dependiendo de las necesidades clínicas.
+
+En relación con la máquina WATO EX-20, el reconocimiento del vaporizador permitió comprender la importancia de controlar la concentración de los agentes inhalatorios. Una administración inadecuada puede producir una profundidad anestésica insuficiente o excesiva, por lo que resulta fundamental verificar el funcionamiento del sistema de vaporización y mantener una supervisión continua de los parámetros del paciente.
+
+## *2. ¿Qué diferencias plantea el modelo EX-35 con respecto al EX-20?*
+
+Los modelos WATO EX-20 y WATO EX-35 pertenecen a la familia de estaciones de anestesia WATO, diseñadas para proporcionar soporte ventilatorio y administrar mezclas controladas de gases anestésicos durante procedimientos quirúrgicos.
+
+Ambos equipos comparten componentes fundamentales, como el sistema de suministro de gases, los vaporizadores, el circuito respiratorio, el recipiente absorbente de CO₂ y los mecanismos de seguridad relacionados con la ventilación y el control de presión.
+
+El WATO EX-35 corresponde a una plataforma de mayores prestaciones dentro de la familia, con diferencias que pueden incluir la interfaz de usuario, las capacidades de monitoreo y las opciones de ventilación disponibles. Sin embargo, estas características dependen de la versión y configuración específica del equipo, por lo que es necesario consultar las fichas técnicas y los manuales de ambos modelos para establecer una comparación precisa.
+
+Desde el punto de vista de la ingeniería biomédica, la comparación permite reconocer que la evolución de las estaciones de anestesia busca integrar mejores herramientas de supervisión, control y seguridad. No obstante, independientemente del modelo utilizado, es indispensable realizar verificaciones funcionales, mantenimiento preventivo y comprobaciones de los sistemas de suministro de gases antes de su utilización clínica.
+
+---
+
+# **Conclusiones**
+
+El funcionamiento seguro de una máquina de anestesia depende de la integración de diferentes subsistemas encargados de suministrar gases medicinales, regular la presión y mantener una ventilación adecuada durante los procedimientos quirúrgicos. En esta práctica se buscó reconocer los componentes principales de la máquina WATO EX-20, comprender sus funciones e identificar las condiciones que pueden comprometer su operación. A partir del reconocimiento realizado, se estableció que elementos como el vaporizador, la válvula APL, el recipiente absorbente de CO₂ y el fuelle cumplen funciones complementarias que permiten controlar la administración de anestésicos y el soporte respiratorio del paciente.
+
+El análisis de los mecanismos de seguridad permitió identificar que las principales condiciones de riesgo estudiadas están relacionadas con las fugas en los sistemas de alta presión, el agotamiento del absorbente de CO₂, las interrupciones del suministro eléctrico y las alteraciones en el control de la concentración de oxígeno. Se determinó que la supervisión mediante sensores, alarmas y pruebas funcionales facilita la detección de estas condiciones antes de que comprometan la seguridad del paciente. En particular, el sensor de O₂ proporciona una verificación directa de la concentración suministrada, mientras que el sistema de alimentación por batería permite mantener temporalmente la ventilación ante una falla eléctrica.
+
+Estos hallazgos permiten comprender que la confiabilidad de una máquina de anestesia no depende únicamente de sus características técnicas, sino también de la correcta interpretación de sus indicadores y del cumplimiento de los procedimientos de mantenimiento. Como siguiente paso, sería conveniente complementar el reconocimiento de los componentes con pruebas prácticas de funcionamiento, verificación de alarmas y evaluación de los sistemas de suministro de gases, con el fin de fortalecer las competencias relacionadas con la inspección, el diagnóstico y el mantenimiento de equipos biomédicos.
+
+
+
+
+
